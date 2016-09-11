@@ -1,2 +1,4 @@
 # hello-world
-my-idas
+my-ideas
+
+This is me learning how to use Github.
